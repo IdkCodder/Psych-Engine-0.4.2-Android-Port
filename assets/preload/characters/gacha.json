@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gacha idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gacha left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-200
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gacha down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gacha up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gacha right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gacha_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gacha",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		204
+	],
+	"camera_position": [
+		50,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
